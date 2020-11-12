@@ -1,5 +1,9 @@
 /*
 https://leetcode.com/problems/add-two-numbers/
+
+Solutions complexities
+Time complexity: O(n1 + n2)
+Space complexity: O(n1 + n2)
 */
 
 /**
