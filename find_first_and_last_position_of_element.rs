@@ -1,5 +1,9 @@
 /*
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+
+Time complexities
+Average time complexity: O(logn) 
+Average space complexity: O(1)
 */
 use std::cmp::Ordering;
 
