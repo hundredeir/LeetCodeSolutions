@@ -1,5 +1,9 @@
 """
 https://leetcode.com/problems/all-paths-from-source-to-target/
+
+Complexities
+Time complexity: O(n)
+Space complexity: O(n)
 """
 from typing import List
 
